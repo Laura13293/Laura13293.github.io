@@ -26,9 +26,13 @@ Faculty of Science, University of Zagreb
 - [Award for the Most Successful Graduating Students of Undergraduate, Graduate, and Integrated Study Programmes](https://www.pmf.unizg.hr/_news/80273/nagradMO.pdf) 
 - [Zlatno slovo](https://os-cetvrta-bj.skole.hr/nagradeni-ucenici/)
 ## Music school: 
-
+- Croatian Regional Competitions of Music Students:
+- - 2013./2014. 2nd award,  violin, category III
+  -  - 2015./2016. [2nd award, violin, category IV](https://lisinski-bj.hr/2016/02/21/54-hrvatsko-natjecanje-ucenika-i-studenata-glazbe-i-plesa-regionalno/)
+     - - 2016./ 2017. [1st award, violin duo](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lisinski-bj.hr/natjecanja-2016/&ved=2ahUKEwji3d62nN2WAxX8IRAIHcGsKhIQFnoECEAQAQ&usg=AOvVaw04hJUr92eQKqTtzMieHKdk)
+       - 
 - [2nd place at the History of Music Competition](https://lisinski-bj.hr/2018/10/24/natjecanje-iz-povijesti-glazbe-foto-galerija/)
-- [2nd award at the 54th Regional Croatian Competition of Music students, violin, category IV](https://lisinski-bj.hr/2016/02/21/54-hrvatsko-natjecanje-ucenika-i-studenata-glazbe-i-plesa-regionalno/)
+  
 ## Contact
 
 - e-mail: laura.zupcic@alumni.unizg.hr
