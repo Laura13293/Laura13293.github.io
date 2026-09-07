@@ -26,12 +26,16 @@ Faculty of Science, University of Zagreb
 - [Award for the Most Successful Graduating Students of Undergraduate, Graduate, and Integrated Study Programmes](https://www.pmf.unizg.hr/_news/80273/nagradMO.pdf) 
 - [Zlatno slovo](https://os-cetvrta-bj.skole.hr/nagradeni-ucenici/)
 ## Music School
+## Music School
 
 ### Croatian Regional Competitions of Music Students
 
 - **2013/2014** — 2nd Award, Violin, Category III
 
-- **2015/2016** — 2nd Award, Violin, Category IV  
+- **2015/2016** — 1st Prize, Violin, *Sonus op. 2* Competition for Young Musicians, Križevci  
+  [Competition announcement](https://lisinski-bj.hr/2016/02/10/natjecanje-mladih-glazbenika-sonus-op-2-krizevci-5-7-02-2016/)
+
+- **2015/2016** — 2nd Award, Violin, Category IV, Croatian Regional Competition of Music Students  
   [54th Croatian Competition of Music Students and Students of Dance — Regional Level](https://lisinski-bj.hr/2016/02/21/54-hrvatsko-natjecanje-ucenika-i-studenata-glazbe-i-plesa-regionalno/)
 
 - **2016/2017** — 1st Award, Violin Duo  
