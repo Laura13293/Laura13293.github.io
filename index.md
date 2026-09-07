@@ -46,7 +46,7 @@ Faculty of Science, University of Zagreb
 ### Other Music Achievements
 
 - **2018** — 2nd Place, History of Music Competition  
-  [Competition announcement](https://lisinski-bj.hr/2018/10/24/natjecanje-iz-povijesti-glazbe-foto-galerija/)
+  [Competition results](https://lisinski-bj.hr/2018/10/24/natjecanje-iz-povijesti-glazbe-foto-galerija/)
   
 ## Contact
 
