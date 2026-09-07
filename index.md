@@ -24,6 +24,6 @@ University of Zagreb
 
 ## Contact
 
-Email: laura.zupcic@alumni.unizg.hr
+- e-mail: laura.zupcic@alumni.unizg.hr
 
--[LinkedIn](https://www.linkedin.com/in/laura-župčić-a61b4b138?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [LinkedIn](https://www.linkedin.com/in/laura-župčić-a61b4b138?utm_source=share_via&utm_content=profile&utm_medium=member_android)
