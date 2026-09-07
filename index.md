@@ -27,7 +27,8 @@ Faculty of Science, University of Zagreb
 - [Zlatno slovo](https://os-cetvrta-bj.skole.hr/nagradeni-ucenici/)
 ## Music school: 
 
-- [2nd place at the History of Music Competition](https://lisinski-bj.hr/2018/10/24/natjecanje-iz-povijesti-glazbe-foto-galerija/) 
+- [2nd place at the History of Music Competition](https://lisinski-bj.hr/2018/10/24/natjecanje-iz-povijesti-glazbe-foto-galerija/)
+- [2nd award at the 54th Regional Croatian Competition of Music students, violin, category IV](https://lisinski-bj.hr/2016/02/21/54-hrvatsko-natjecanje-ucenika-i-studenata-glazbe-i-plesa-regionalno/)
 ## Contact
 
 - e-mail: laura.zupcic@alumni.unizg.hr
