@@ -33,7 +33,7 @@ Faculty of Science, University of Zagreb
 - **2013/2014** — 2nd Award, Violin, Category III
 
 - **2015/2016** — 1st Prize, Violin, *Sonus op. 2* Competition for Young Musicians, Križevci  
-  [Competition announcement](https://lisinski-bj.hr/2016/02/10/natjecanje-mladih-glazbenika-sonus-op-2-krizevci-5-7-02-2016/)
+  [Competition results](https://lisinski-bj.hr/2016/02/10/natjecanje-mladih-glazbenika-sonus-op-2-krizevci-5-7-02-2016/)
 
 - **2015/2016** — 2nd Award, Violin, Category IV, Croatian Regional Competition of Music Students  
   [54th Croatian Competition of Music Students and Students of Dance — Regional Level](https://lisinski-bj.hr/2016/02/21/54-hrvatsko-natjecanje-ucenika-i-studenata-glazbe-i-plesa-regionalno/)
