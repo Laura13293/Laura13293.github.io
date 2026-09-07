@@ -22,7 +22,7 @@ Faculty of Science, University of Zagreb
 
 - [GitHub repositories](https://github.com/Laura13293)
 ## Awards & Honors 
-- Summa cum laude graduation, Master of Mathematical Statistics, University of Zagreb (2026)
+- Summa cum laude graduation, Master of Mathematics, University of Zagreb (2026)
 - [Award for the Most Successful Graduating Students of Undergraduate, Graduate, and Integrated Study Programmes](https://www.pmf.unizg.hr/_news/80273/nagradMO.pdf) 
 - [Zlatno slovo](https://os-cetvrta-bj.skole.hr/nagradeni-ucenici/)
 ## Contact
