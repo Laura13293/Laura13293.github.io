@@ -30,7 +30,7 @@ Faculty of Science, University of Zagreb
 
 ## Music School
 
-### Croatian Regional Competitions of Music Students
+### Croatian Regional Competitions of Music Students & International 
 
 - **2013/2014** — 2nd Award, Violin, Category III
 
