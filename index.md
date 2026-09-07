@@ -13,7 +13,7 @@ Faculty of Science, University of Zagreb
 
 **MSc in Mathematical Statistics**  
 Faculty of Science, University of Zagreb
-https://zir.nsk.hr/object/pmf:15465
+
 ## Research interests
 
 - Probability Theory (primary interest)
