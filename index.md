@@ -8,6 +8,7 @@ I am a graduate in Mathematical Statistics with interest in Probability theory a
 
 ## Education
 **Bsc in Mathematics**
+
 University of Zagreb 
 
 
