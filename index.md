@@ -1,4 +1,4 @@
-# Laura Župčić
+
 
 Bsc in Mathematics, MSc in Mathematical Statistics
 
