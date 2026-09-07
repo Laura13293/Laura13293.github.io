@@ -1,22 +1,21 @@
 # Laura Župčić
 
-MSc in Statistics
+Bsc in Mathematics, MSc in Mathematical Statistics
 
 ## About
 
-I am a graduate in Statistics intereste in Probability theory.
+I am a graduate in Mathematical Statistics with interest in Probability theory. My master's thesis is titled Local Convergence of Random Graphs.
 
 ## Education
-
-**MSc in Statistics**  
+**Bsc in Mathematics**
+University of Zagreb 
+**MSc in Mathematical Statistics**  
 University of Zagreb
 
 ## Research interests
 
-- Mathematical statistics
-- Probability theory
-- Statistical modelling
-
+- Probability Theory (primary interest)
+- Mathematical  Statistics 
 ## Projects
 
 - [GitHub repositories](https://github.com/Laura13293)
