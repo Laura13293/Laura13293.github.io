@@ -24,7 +24,8 @@ Faculty of Science, University of Zagreb
 ## Awards & Honors 
 - Summa cum laude graduation, Master of Mathematics, University of Zagreb (2026)
 - [Award for the Most Successful Graduating Students of Undergraduate, Graduate, and Integrated Study Programmes](https://www.pmf.unizg.hr/_news/80273/nagradMO.pdf)
-  - **Geography Competition (Croatia, 2012./2013.)** — [6th place on the national level](https://hrcak.srce.hr/file/439598)
+
+- **Geography Competition (Croatia, 2012./2013.)** — [6th place on the national level](https://hrcak.srce.hr/file/439598)
 - [Zlatno slovo](https://os-cetvrta-bj.skole.hr/nagradeni-ucenici/)
 
 ## Music School
