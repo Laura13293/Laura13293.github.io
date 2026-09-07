@@ -21,7 +21,9 @@ Faculty of Science, University of Zagreb
 ## Projects
 
 - [GitHub repositories](https://github.com/Laura13293)
-
+## Awards & Honors 
+- [Dpt. of Mathematics Award for the best performing students of final years of all studies](https://www.pmf.unizg.hr/_news/80273/nagradMO.pdf) 
+- [Zlatno slovo](https://os-cetvrta-bj.skole.hr/nagradeni-ucenici/)
 ## Contact
 
 - e-mail: laura.zupcic@alumni.unizg.hr
