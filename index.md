@@ -8,12 +8,12 @@ I am a graduate in Mathematical Statistics with interest in Probability theory a
 https://zir.nsk.hr/object/pmf:15465).
 ## Education
 **Bsc in Mathematics**    
-University of Zagreb 
+Faculty of Science, University of Zagreb 
 
 
 **MSc in Mathematical Statistics**  
-University of Zagreb
-
+Faculty of Science, University of Zagreb
+https://zir.nsk.hr/object/pmf:15465
 ## Research interests
 
 - Probability Theory (primary interest)
