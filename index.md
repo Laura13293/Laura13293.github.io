@@ -52,6 +52,7 @@ Faculty of Science, University of Zagreb
 
 - e-mail: laura.zupcic@alumni.unizg.hr
 - [Google Scholar](https://scholar.google.com/citations?user=YSQVlDUAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0003-6785-0851?lang=en)
 - [LinkedIn](https://www.linkedin.com/in/laura-župčić-a61b4b138?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [Kaggle](https://www.kaggle.com/lauraupi)
 - [Math Stack Exchange](https://math.stackexchange.com/users/721644/matcha-latte?tab=profile)
