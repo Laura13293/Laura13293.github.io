@@ -4,7 +4,7 @@ Bsc in Mathematics, MSc in Mathematical Statistics
 
 ## About
 
-I am a graduate in Mathematical Statistics with interest in Probability theory and soon to be a PhD student. My master's thesis is titled [Local Convergence of Random Graphs](
+I am a [graduate](https://alumni.pmf.unizg.hr/alumni) in Mathematical Statistics with interest in Probability theory and soon to be a PhD student. My master's thesis is titled [Local Convergence of Random Graphs](
 https://zir.nsk.hr/object/pmf:15465).
 ## Education
 **Bsc in Mathematics**    
